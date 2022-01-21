@@ -1,6 +1,6 @@
 # Tasteal Movies
 
-MCS Final Project LA03
+MMS Final Project LA03
 
 Member:
 1.  2301846383  -   Nabilla Driesandia Azarine
